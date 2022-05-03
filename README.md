@@ -1,7 +1,14 @@
 # damono999
-fleelance enginner.
-fullstack enginner.
-I like react.
+fleelance enginner.<br>
+fullstack enginner.<br>
+I like react.<br>
+<br>
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damono999" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=damono999" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=damono999)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Experience
 - weltch. (January 2021 - present)
@@ -19,3 +26,6 @@ I like react.
   - insurance　system(java, struts)
 - Gin... Co., Ltd. (October 2015 - December 2017)
   - insurance　system(java, VBA)
+
+# Portfolio
+
