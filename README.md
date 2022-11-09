@@ -12,7 +12,7 @@ I like react.<br>
 
 # Experience
 - weltch. (January 2022 - present)
-  - job board　service(nextjs, laravel, mysql)
+  - job board service(nextjs, laravel, mysql)
   - school media(nextjs, express, typeorm, mysql) 
   - health sns(nextjs, prisma)
   - hr tech service(react, express, storybook, jest, typeorm, postgres, storybook)
