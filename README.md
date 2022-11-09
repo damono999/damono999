@@ -11,12 +11,12 @@ I like react.<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=damono999)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Experience
-- weltch. (January 2022 - present)
+- weltch. (January 202１ - present)
   - job board service(nextjs, laravel, mysql)
   - school media(nextjs, express, typeorm, mysql) 
   - health sns(nextjs, prisma)
   - hr tech service(react, express, storybook, jest, typeorm, postgres, storybook)
-- Giz... Co., Ltd. (October 2019 - December 2021)
+- Giz... Co., Ltd. (October 2019 - December 2020)
   - bank system (vuejs(v2.6), golang)
 - In Philippines (July 2019 - September 2019)
   - language school for 3 month
