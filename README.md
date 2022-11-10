@@ -11,7 +11,7 @@ I like react.<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=damono999)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Experience
-- weltch. (January 202１ - present)
+- weltch. (January 2021 - present)
   - job board service(nextjs, laravel, mysql)
   - school media(nextjs, express, typeorm, mysql) 
   - health sns(nextjs, prisma)
