@@ -1,7 +1,7 @@
 # damono999
 fleelance enginner.<br>
 fullstack enginner.<br>
-I like react.<br>
+I like React.<br>
 <br>
 <!-- <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damono999" />
